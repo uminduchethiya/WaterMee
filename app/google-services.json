@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289273949164",
+    "project_id": "waterme-cbd49",
+    "storage_bucket": "waterme-cbd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289273949164:android:a602eeff77705c8704eec9",
+        "android_client_info": {
+          "package_name": "com.example.waterme_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289273949164-ivsi77gja0tfdoobesg0gf2r8e4o69v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfCUQvD4QD5Io6QuplLLR2nZw0FzgHh0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289273949164-ivsi77gja0tfdoobesg0gf2r8e4o69v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
